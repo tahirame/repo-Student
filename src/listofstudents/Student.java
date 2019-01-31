@@ -14,8 +14,8 @@ public class Student {
   private String name;
   private int id;
   private String DoB;
-  private int date;
   
+  //this property id to add partt time strufent 
   private int maxHrs;
   public Student()
   {
