@@ -53,9 +53,7 @@ public class Student {
     /**
      * @return the DoB
      */
-    public String getDoB() {
-        return DoB;
-    }
+    //THis used to be DOB
 
     /**
      * @param DoB the DoB to set
